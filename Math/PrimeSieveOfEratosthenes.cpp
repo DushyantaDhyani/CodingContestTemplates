@@ -1,5 +1,5 @@
 //The following code is used for preprocessing to find prime numbers using the sieve of Eratosthenes
-//For more details 
+//For more details http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 vector<int> Primes;
 bool Flag[1000001];
 void preprocess(){
